@@ -1,10 +1,10 @@
 {
   "applicationId": "com.hendayan.whatsappdirect",
-  "versionCode": 31,
-  "versionName": "4.15",
-  "apkUrl": "https://github.com/hendayan1990-svg/hazakim-release-cdd0a3dc67f81a/releases/download/v4.15/Hazakim_Bashetach_v4_15.apk",
-  "sha256": "3d7af4ca467483ffeb822922688110bae815c10a2c4dfa9524fe74b225a988ba",
-  "size": 119488,
+  "versionCode": 32,
+  "versionName": "4.16",
+  "apkUrl": "https://github.com/hendayan1990-svg/hazakim-release-cdd0a3dc67f81a/releases/download/v4.16/Hazakim_Bashetach_v4_16.apk",
+  "sha256": "2b88c9d3e2d48bfae2be597251294f08e408dd3934605c6715a496c7ca35d3bc",
+  "size": 127680,
   "releaseNotes": {
     "he": "עדכון לאפליקציית חזקים בשטח. יש להוריד את הגרסה ולאשר התקנה.",
     "en": "Strong in the Field update. Download and approve the Android installation."
